@@ -23,12 +23,14 @@ know it would like to recieve all leap events.
 
 run the head server first:  
 ```
-node head.js```  
+node head.js
+```  
 you can modify the host and port it listens to in settings.js  
 
 run an arm on each machine with a Leap  
 ```
-HEADHOST=localhost HEADPORT=1337 node arm.js```
+HEADHOST=localhost HEADPORT=1337 node arm.js
+```
 adjust the host and port accordingly to point to your head server
 
 connect an "eye" to the head, an example client is given below
