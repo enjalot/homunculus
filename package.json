@@ -1,0 +1,21 @@
+{
+  "name": "homunculus",
+  "version": "0.0.1",
+  "description": "Node servers for collecting input from multiple Leaps",
+  "keywords": [
+    "leap",
+    "motion"
+  ],
+  "homepage": "http://enja.org",
+  "author": {
+    "name": "Ian Johnson",
+    "url": "http://enja.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/enjalot/homunculus.git"
+  },
+  "dependencies": {
+    "websocket": "1.0.8"
+  }
+}
