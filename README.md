@@ -37,5 +37,4 @@ connect an "eye" to the head, an example client is given below
 
 ##Example 
 An example can be found in this tributary:
-http://tributary.io/inlet/4703710
-
+http://tributary.io/inlet/4720756

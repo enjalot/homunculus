@@ -49,7 +49,7 @@ wsServer.on('request', function(request) {
           var armData = JSON.parse(JSON.parse(data).data);
           armData['arm'] = index; 
           //console.log("ARM DATA", armData);
-          console.log("arm", armData.arm, index)
+          //console.log("arm", armData.arm, index)
           for(var i = eyes.length; i--;) {
             var ind = eyes[i];
             //don't send a message from ourselves to ourselves
